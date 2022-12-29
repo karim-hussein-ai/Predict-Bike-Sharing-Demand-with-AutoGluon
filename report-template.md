@@ -3,7 +3,7 @@
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-TODO: Add your explanation
+Round negative outputs to zero
 
 ### What was the top ranked model that performed?
 After doing EDA and adding new features, here was my top ranked model which is
