@@ -43,4 +43,9 @@ TODO: Replace the image below with your own.
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-TODO: Add your explanation
+In this project we go through all steps of ML Lifecycle:
+- Problem and business objective: Predict bike sharing demand described the data.
+- Collecting data: Data collected from Kaggle competition Bike Sharing Demand.
+- Analayze the data and apply EDA and extact feartures and deleted unwanted features.
+- Building the model using Autogluon and apply hyper parameter tuning.
+- Test the model by submite the model to Kaggle and return the score.
